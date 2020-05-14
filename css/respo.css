@@ -456,7 +456,7 @@
 	}
 
 	main .plan .all .item .part {
-		width: 86%;
+		width: 90%;
 		margin: 0 auto;
 	}
 	main .plan .all .item .part:nth-child(2) {
