@@ -1,8 +1,9 @@
+body,html {
+	overflow-x: hidden;
+}
 /**========== Respo For Phones and tablets ==========**/
 @media (min-width: 320px) and (max-width: 419px) {
-	body {
-		overflow-x: hidden;
-	}
+
 	/*---------------------- Start Header ------------------------*/
 
 	header {
@@ -680,8 +681,8 @@
 }
 /**========== Respo For Phones and tablets ==========**/
 @media (min-width: 420px) and (max-width: 720px) {
-	body {
-		overflow-x: hidden;
+  body,html {
+	overflow-x: hidden;
 	}
 	/*---------------------- Start Header ------------------------*/
 
@@ -1363,7 +1364,7 @@
 
 /**========== Respo For Large Phones and tablets ==========**/
 @media (min-width: 721px) and (max-width: 912px) {
-	body {
+	body, html {
 		overflow-x: hidden;
 	}
 	/*---------------------- Start Header ------------------------*/
@@ -2042,7 +2043,7 @@
 /**========== Respo For Phones and tablets ==========**/
 /**========== Respo For Large Phones and tablets ==========**/
 @media (min-width: 913px) and (max-width: 1200px) {
-	body {
+	body,html {
 		overflow-x: hidden;
 	}
 	/*---------------------- Start Header ------------------------*/
