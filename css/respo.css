@@ -1,7 +1,6 @@
 body,
 html {
 	overflow-x: hidden !important;
-	position: relative;
 }
 /**========== Respo For Small Phones and tablets ==========**/
 @media (min-width: 320px) and (max-width: 419px) and (max-height: 950px) {
