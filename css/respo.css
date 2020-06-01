@@ -684,9 +684,6 @@ html {
 
 /**========== Respo For Meduim Phones and tablets ==========**/
 @media (min-width: 420px) and (max-width: 820px) and (max-height: 1500px) {
-	body {
-		overflow-x: hidden;
-	}
 	/*---------------------- Start Header ------------------------*/
 
 	header {
@@ -1369,9 +1366,6 @@ html {
 
 /**========== Respo For Large Phones and tablets ==========**/
 @media (min-width: 821px) and (max-width: 1024px) and (max-height: 1500px) {
-	body {
-		overflow-x: hidden;
-	}
 	/*---------------------- Start Header ------------------------*/
 
 	header {
@@ -2050,9 +2044,6 @@ html {
 
 /**========== Respo For Laptops and Desktop ==========**/
 @media (min-width: 1025px) and (max-width: 1250px) {
-	body {
-		overflow-x: hidden;
-	}
 	/*---------------------- Start Header ------------------------*/
 
 	header {
